@@ -13,6 +13,7 @@ module.exports = {
   ],
   rules: {
     quotes: [2, 'single'],
-    'quote-props': [2, 'as-needed']
+    'quote-props': [2, 'as-needed'],
+    semi: [2, 'always']
   }
 };
